@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAI-cyber, a computational Physicist
 - 👀 I’m interested in Quantum Computation and Quantum Algorithm
-- 🌱 I’m currently working as a resaerch assistant in a quantum lab at LUMS
+- 🌱 I’m currently working as a research assistant in a quantum lab at LUMS
 - 📫 How to reach me: use Grover search 
 - Portfolio: https://sites.google.com/view/muhammadabdullahijaz/home?authuser=0
 
